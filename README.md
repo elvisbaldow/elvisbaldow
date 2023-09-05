@@ -34,7 +34,8 @@
 
 ![_alt_text_](https://img.shields.io/badge/figma-x-F24E1E?style=for-the-badge&logo=figma)
 ![_alt_text_](https://img.shields.io/badge/adobephotoshop-x-31A8FF?style=for-the-badge&logo=adobephotoshop)
-![_alt_text_](https://img.shields.io/badge/adobeillustrator-x-FF9A00?style=for-the-badge&logo=adobeillustrator) <br>
+![_alt_text_](https://img.shields.io/badge/adobeillustrator-x-FF9A00?style=for-the-badge&logo=adobeillustrator)
+![_alt_text_](https://img.shields.io/badge/trello-x-0052CC?style=for-the-badge&logo=trello) <br>
 ![_alt_text_](https://img.shields.io/badge/visualstudiocode-x-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![_alt_text_](https://img.shields.io/badge/intellijidea-x-000000?style=for-the-badge&logo=intellijidea)
 ![_alt_text_](https://img.shields.io/badge/eclipseide-x-2C2255?style=for-the-badge&logo=eclipseide)
