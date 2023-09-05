@@ -20,7 +20,7 @@
 </div>          
 
 ## Status
-
+<div display ="inline">
 <a href="https://github.com/elvisbaldow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisbaldow&theme=dracula&hide_langs_below=1" />
 </a>
@@ -28,7 +28,7 @@
 <a href="https://github.com/elvisbaldow">
  <img height = "245" align="center" src="https://github-readme-stats.vercel.app/api?username=elvisbaldow&show_icons=true&theme=dracula&line_height=27" alt="Elvis Baldow github stats"/>
 </a>
-
+</div>
 <br><br>
 **Ferramentas & IDE's**
 
