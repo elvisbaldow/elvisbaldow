@@ -27,6 +27,31 @@
 <a href="https://github.com/elvisbaldow">
  <img height = "245" align="center" src="https://github-readme-stats.vercel.app/api?username=elvisbaldow&show_icons=true&theme=dracula&line_height=27" alt="Elvis Baldow github stats"/>
 </a>
+
+<br><br>
+**Ferramentas & IDE's**
+
+![_alt_text_](https://img.shields.io/badge/figma-x-F24E1E?style=for-the-badge&logo=figma)
+![_alt_text_](https://img.shields.io/badge/adobephotoshop-x-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![_alt_text_](https://img.shields.io/badge/adobeillustrator-x-FF9A00?style=for-the-badge&logo=adobeillustrator) <br>
+![_alt_text_](https://img.shields.io/badge/visualstudiocode-x-007ACC?style=for-the-badge&logo=visualstudiocode)
+![_alt_text_](https://img.shields.io/badge/intellijidea-x-000000?style=for-the-badge&logo=intellijidea)
+![_alt_text_](https://img.shields.io/badge/eclipseide-x-2C2255?style=for-the-badge&logo=eclipseide)
+
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-elvisbaldow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/elvisbaldow)](https://linkedin.com/in/elvisbaldow)
+[![Gmail Badge](https://img.shields.io/badge/-elvisbaldow@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:elvisbaldow@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/elvisbaldow?label=follow&style=social)](https://github.com/elvisbaldow)
+
+<!--
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+-->
+
+
 <!--
 **Aplicações e dados**
 
