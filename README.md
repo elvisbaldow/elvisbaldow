@@ -4,15 +4,32 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas no <a href="[link da sua faculdade](https://newtonpaiva.br/)">Newton Paiva</a>.
+- 🎓 Estudando Analise e Desenvolvimento de Sistemas na <a href="https://newtonpaiva.br/">Newton Paiva</a>.
 - 💼 Em transição de carreira e em busca de um estágio como Desenvolvedor</a>
-- 🌱 &nbsp; Aprendendo mais sobre Javascript | Java | Python.
-<!--
-<h3>Minhas Skills</h3>
 
+
+<h5>LINGUAGENS QUE ESTOU APRENDENDO</h5>
+<div diplay = "inline">
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+<img width="30" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="30" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width="30" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+</div>          
+
+## Status
+
+<a href="https://github.com/elvisbaldow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisbaldow&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/elvisbaldow">
+ <img height = "245" align="center" src="https://github-readme-stats.vercel.app/api?username=elvisbaldow&show_icons=true&theme=dracula&line_height=27" alt="Elvis Baldow github stats"/>
+</a>
+<!--
 **Aplicações e dados**
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -22,7 +39,8 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
+-->
+<!--
 **Utilidades**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
