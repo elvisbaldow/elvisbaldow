@@ -1,12 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=elvisbaldow&color=006bed)
-<h1>Olá meu nome é Elvis Baldow</h1>
+<h1>Olá, meu nome é Elvis Baldow</h1>
 
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Analise e Desenvolvimento de Sistemas na <a href="https://newtonpaiva.br/">Newton Paiva</a>.
-- 💼 Em transição de carreira e em busca de um estágio como Desenvolvedor</a>
+- 💼 Em transição de carreira e em busca de um estágio como Desenvolvedor
 
+<br>
 
 <h5>LINGUAGENS QUE ESTOU APRENDENDO</h5>
 <div diplay = "inline">
